@@ -11,7 +11,8 @@ Database: MySQL
 Server: Xampp
 
 You can view the website by this following link: 
-👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
+👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
+
 https://iamshreyabasu.github.io/shreyabanksystem.github.io/
 
 If you like this you can give me a star to appriciate my work. 🙂
